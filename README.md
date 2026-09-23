@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Jonaki Khan Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Jonaki Khan</h1>
+<h3 align="center">Frontend Developer | Exploring Next.js</h3>
 
 <!--
 **jonaki-khan/jonaki-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
